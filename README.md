@@ -1,1 +1,2 @@
-# my--awesome--project
+# my--awesome--project 
+clone, push and pull test
